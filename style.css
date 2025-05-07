@@ -1,0 +1,44 @@
+body {
+    background-color: #FFFDF4;
+    font-family: 'Montserrat', sans-serif;
+    color: #545454;
+  }
+  .navbar {
+    background-color: rgb(238, 215, 198);
+    font-weight: 600;
+  }
+  .nav-link {
+    color: #555 !important;
+    font-weight: bold;
+    margin-right: 20px;
+  }
+  .nav-link:hover {
+    color: rgb(112, 105, 94) !important;
+  }
+  .btn-kb {
+    background-color:rgb(238, 215, 198) ;
+    color: white;
+    font-weight: bold;
+    border-radius: 10px;
+    padding: 6px 16px;
+    border: none;
+    margin-left: 10px;
+  }
+  .btn-kb:hover {
+    background-color: rgb(177, 173, 170);
+  }
+  table {
+    width: 50%;
+    margin: 30px auto;
+    border-collapse: collapse;
+}
+th {
+    background-color: rgb(238, 215, 198);
+    color: white;
+}
+td, th {
+    padding: 12px;
+    text-align: left;
+}
+
+  
